@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">CurrencyConvertor</string>
     <string name="amount_title">Amount</string>
-    <string name="amount_msg">Amount message</string>
+    <string name="amount_msg">Position amount in this frame</string>
 </resources>
